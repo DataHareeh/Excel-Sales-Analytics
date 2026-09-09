@@ -12,6 +12,72 @@ The project focuses on two key business areas:
 The objective is to transform complex business data into clear, actionable insights that support data-driven business decision-making.
 
 ---
+## 🗺️ Project Roadmap
+
+```text
+📊 SALES & FINANCE DATA ANALYTICS — EXCEL
+│
+├── 📌 Project Overview
+│
+├── 📊 Sales Analytics
+│   ├── 🎯 Analysis Objectives
+│   │   ├── Customer Performance
+│   │   └── Market Performance vs. Sales Targets
+│   │
+│   └── 💡 Business Value
+│
+├── 💰 Finance Analytics
+│   ├── 🎯 Analysis Objectives
+│   │   ├── P&L by Fiscal Year
+│   │   ├── P&L by Month
+│   │   └── P&L by Market
+│   │
+│   └── 💡 Business Value
+│
+├── 🔍 Business Questions
+│   ├── 📊 Sales Analytics
+│   └── 💰 Finance Analytics
+│
+├── 💡 Key Business Insights
+│
+├── 🔄 Project Workflow & Data Model
+│   ├── Extract
+│   ├── Transform
+│   ├── Data Modeling
+│   ├── DAX
+│   └── Reporting
+│
+├── 🛠️ Technical Skills Demonstrated
+│   ├── Power Query
+│   ├── Power Pivot
+│   ├── Data Modeling
+│   └── DAX
+│
+├── 🧠 Business & Analytical Skills
+│
+├── 🎓 Key Learning Outcomes
+│
+├── 📂 Project Deliverables
+│   ├── Customer Performance
+│   ├── Market vs. Target
+│   ├── P&L by Fiscal Year
+│   ├── P&L by Month
+│   └── P&L by Market
+│
+└── 🚀 Project Outcome
+
+## 📑 Quick Navigation
+
+- [📊 Sales Analytics](#-sales-analytics)
+- [💰 Finance Analytics](#-finance-analytics)
+- [🔍 Business Questions](#-business-questions)
+- [💡 Key Business Insights](#-key-business-insights)
+- [🔄 Project Workflow & Data Model](#-project-workflow--data-model)
+- [🛠️ Technical Skills Demonstrated](#-technical-skills-demonstrated)
+- [🧠 Business & Analytical Skills](#-business--analytical-skills)
+- [🎓 Key Learning Outcomes](#-key-learning-outcomes)
+- [📂 Project Deliverables](#-project-deliverables)
+- [🚀 Project Outcome](#-project-outcome)
 
 # 📈 Sales Analytics
 
@@ -93,91 +159,149 @@ The Finance Analytics reports enable businesses to:
 * Align financial planning with strategic business objectives
 * Communicate financial performance effectively to stakeholders
 
+
+The Sales Analytics reports provide a structured view of customer and market performance, helping to:
+
+- Monitor customer-level sales performance and year-over-year growth.
+- Evaluate market performance against sales targets.
+- Identify significant performance gaps across markets.
+- Recognize high-performing customers and markets that contribute to sales growth.
+- Support data-driven evaluation of sales performance and target achievement.
+- Provide a clear foundation for identifying areas that may require further analysis or business attention.
+
+- # 🔍 Business Questions
+
+## 📊 Sales Analytics
+
+- Which customers contribute the most to overall Net Sales?
+- How has customer-level sales performance changed between 2020 and 2021?
+- Which markets generated the highest Net Sales in 2021?
+- How did actual market performance compare with the 2021 sales targets?
+- Which markets recorded the largest gaps against their targets?
+
+## 💰 Finance Analytics
+
+- How has Net Sales changed across fiscal years?
+- How has Gross Margin changed in relation to Net Sales?
+- How has Gross Margin Percentage (GM%) evolved across fiscal years?
+- Which markets generated the highest Net Sales and Gross Margin in FY2021?
+- Which markets achieved the highest and lowest Gross Margin Percentage?
+- How did monthly Net Sales and Gross Margin vary throughout the fiscal year?
+
+- # 💡 Key Business Insights
+
+- **Strong sales growth:** Net Sales increased from ₹196.7M in FY2020 to ₹598.9M in FY2021, representing **204.5% year-over-year growth**. :contentReference[oaicite:0]{index=0}
+
+- **Customer sales expanded significantly:** Overall customer sales increased from ₹196.7M in 2020 to ₹598.9M in 2021, a **304.5% increase**. Several major customers also recorded substantial growth, including Amazon (**218.9%**), AtliQ Exclusive (**345.8%**), and Neptune (**471.5%**). :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+
+- **Sales targets were not fully achieved:** FY2021 actual sales were **₹54.9M below the overall target**, representing a **9.17% shortfall**. :contentReference[oaicite:4]{index=4}
+
+- **India was the largest market:** India generated **₹161.3M in FY2021 Net Sales**, followed by the USA at **₹87.8M** and South Korea at **₹49.0M**. :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
+
+- **Profitability varied considerably by market:** New Zealand recorded the highest FY2021 Gross Margin Percentage at **48.2%**, followed by Japan at **46.5%** and the United Kingdom at **45.1%**, while Germany recorded the lowest at **26.2%**. :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}
+
+- **Gross margin percentage declined slightly:** Despite strong sales growth, overall GM% decreased from **37.3% in FY2020 to 36.4% in FY2021**, indicating that profitability percentage did not increase at the same pace as sales. :contentReference[oaicite:9]{index=9}
+
 ---
 
 # 🛠️ Technical Skills Demonstrated
 
-### Data Preparation & ETL
+### 🔄 Data Preparation & ETL
 
-* Applied the **ETL (Extract, Transform, Load)** methodology to prepare business data for analysis.
-* Used **Power Query** to clean, transform, and structure raw datasets.
-* Created a dynamic **Date Table using Power Query**.
-* Derived **Fiscal Months and Fiscal Quarters** for financial reporting.
+- Applied the **ETL (Extract, Transform, Load)** methodology to prepare data for analysis.
+- Used **Power Query** to extract, clean, transform, and structure datasets.
+- Created a **Date Table using Power Query**.
+- Derived **Fiscal Months and Fiscal Quarters** to support financial analysis.
 
-### Data Modeling
+### 🧩 Data Modeling
 
-* Built a structured data model using **Power Pivot**.
-* Established relationships between multiple tables.
-* Integrated supplementary datasets into the existing data model.
-* Designed the model to support scalable analysis and reporting.
+- Built a relational data model using **Power Pivot**.
+- Established relationships between multiple data tables.
+- Integrated supplementary data into the existing data model.
+- Structured the data model to support **Sales and Finance analysis**.
 
-### DAX & Analytics
+### 📐 DAX & Analytical Calculations
 
-* Used **DAX (Data Analysis Expressions)** to create calculated columns and analytical measures.
-* Developed calculations required for sales and financial KPIs.
-* Structured calculations to support dynamic reporting across different dimensions.
+- Used **DAX (Data Analysis Expressions)** to create calculated columns and analytical measures.
+- Developed calculations for **Sales, Profit & Loss, Gross Margin, and KPI analysis**.
+- Applied DAX calculations across different reporting dimensions and time periods.
 
-### Reporting & Visualization
+### 📊 Reporting & Data Visualization
 
-* Designed interactive and user-centric Excel reports.
-* Organized KPIs and analytical outputs for quick business interpretation.
-* Optimized report layouts for clarity, usability, and decision-making.
+- Developed structured **Sales and Finance reports** in Excel.
+- Created reports for **Customer Performance, Market Performance vs. Target, and P&L analysis**.
+- Applied conditional formatting to highlight performance patterns and variances.
+- Organized KPIs and analytical outputs for clear and effective interpretation.
+---
+
+# # 🧠 Business & Analytical Skills
+
+This project demonstrates the ability to:
+
+- Translate **business requirements into analytical reports**.
+- Analyze **Sales and Finance performance** using relevant KPIs.
+- Identify meaningful **KPIs, trends, and performance drivers**.
+- Approach report development from a **business-user perspective**.
+- Apply structured **problem-solving and analytical thinking**.
+- Follow a systematic approach to **report planning, development, and validation**.
+- Refine reports for improved **clarity, usability, and analytical effectiveness**.
+- Translate analytical findings into **actionable business insights**.
 
 ---
 
-# 🧠 Business & Analytical Skills
+## 🔄 Project Workflow & Data Model
 
-Beyond technical implementation, this project demonstrates the ability to:
-
-* Understand and translate **business requirements into analytical reports**
-* Analyze **Sales and Finance performance**
-* Identify meaningful **KPIs and business drivers**
-* Approach report development from a **business-user perspective**
-* Apply structured problem-solving to analytical requirements
-* Optimize reports through iterative refinement
-* Develop a systematic approach to **report planning, development, and validation**
-* Translate analytical findings into **actionable business insights**
-
----
-
-# 🔄 Project Workflow
+The project follows a structured data analytics workflow:
 
 **Raw Data**
 ↓
 **Extract & Transform using Power Query**
 ↓
-**Build Date & Supporting Tables**
+**Create Date Table & Fiscal Calendar**
 ↓
-**Create Data Model using Power Pivot**
+**Build Data Model using Power Pivot**
+↓
+**Establish Table Relationships**
 ↓
 **Develop DAX Calculations**
 ↓
-**Analyze Sales & Financial KPIs**
+**Analyze Sales & Finance KPIs**
 ↓
-**Build Reports & Visualizations**
+**Build Analytical Reports**
 ↓
 **Generate Business Insights**
 
+### 📐 Data Model
+
+The data model integrates the required datasets and supporting tables to enable analysis across:
+
+- **Customers**
+- **Markets**
+- **Fiscal Years**
+- **Fiscal Months**
+- **Fiscal Quarters**
+- **Sales**
+- **Cost of Goods Sold (COGS)**
+- **Gross Margin**
+- **Sales Targets**
+
+This model supports both **Sales Performance Analysis** and **Financial Performance Analysis** within Excel.
 ---
 
-# 🎯 Key Learning Outcomes
+# 🎓 Key Learning Outcomes
 
 Through this project, I strengthened my practical understanding of:
 
-* Excel-based Data Analytics
-* ETL & Data Transformation
-* Power Query
-* Power Pivot
-* Data Modeling
-* DAX
-* Fiscal Calendar Analysis
-* Sales Analytics
-* Financial Analytics
-* KPI Development
-* Business Reporting
-* Data Visualization
-* Business-oriented Problem Solving
-
+- Applying the **ETL process** to real-world business data.
+- Using **Power Query** for data cleaning, transformation, and preparation.
+- Creating **Date Tables, Fiscal Months, and Fiscal Quarters** for time-based analysis.
+- Building relationships and structured data models using **Power Pivot**.
+- Applying **DAX** to develop calculated columns and analytical calculations.
+- Analyzing **Sales Performance and Financial Performance** using relevant KPIs.
+- Comparing actual performance against **sales targets** to identify performance gaps.
+- Evaluating **Net Sales, COGS, Gross Margin, and Gross Margin %** across different dimensions.
+- Developing a systematic approach to **report planning, analysis, and validation**.
+- Translating analytical findings into **clear and actionable business insights**.
 ---
 
 # 📂 Project Deliverables
@@ -192,8 +316,10 @@ Through this project, I strengthened my practical understanding of:
 
 ---
 
-## 🚀 Project Outcome
+# 🚀 Project Outcome
 
-This project demonstrates how **Excel can be used as a complete analytics solution**, combining data transformation, data modeling, DAX calculations, and business reporting to transform raw data into meaningful insights.
+This project demonstrates the practical application of **Excel-based Data Analytics** to transform raw business data into structured Sales and Finance reports.
 
-The overall approach emphasizes not only **technical execution**, but also the ability to understand business requirements and communicate insights through clear, decision-focused reports.
+By combining **Power Query, Power Pivot, Data Modeling, and DAX**, the project delivers analytical insights into customer performance, market performance, sales target achievement, and financial performance.
+
+The project strengthened my ability to move from **data preparation and modeling to analysis, reporting, and insight generation** in a structured analytics workflow.
