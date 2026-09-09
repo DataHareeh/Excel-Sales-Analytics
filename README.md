@@ -1,21 +1,5 @@
 # 📊 Sales & Financial Analytics — Excel
 
-## 🗺️ Project Roadmap
-
-1. 📌 Project Overview
-2. 📊 Sales Analytics
-3. 💰 Financial Analytics
-4. 🔍 Business Questions
-5. 💡 Key Business Insights
-6. 🔄 Project Workflow & Data Model
-7. 🛠️ Technical Skills Demonstrated
-8. 🧠 Business & Analytical Skills
-9. 🎓 Key Learning Outcomes
-10. 📂 Project Deliverables
-11. 🚀 Project Outcome
-
-    
-
 ## 📌 Project Overview
 
 This project presents an end-to-end Sales & Finance Analytics solution built using Microsoft Excel, transforming raw business data into structured, decision-oriented reports.
@@ -59,17 +43,6 @@ Conducted a comprehensive comparison between **actual market performance and sal
 📄 **Report:**
 [Market Performance & Sales Target Analysis](https://github.com/DataHareeh/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
-## 💡 Business Value
-
-The Sales Analytics report helps businesses:
-
-* Identify sales trends and performance patterns
-* Monitor key performance indicators (KPIs)
-* Evaluate customer and market performance
-* Support data-driven pricing and discount decisions
-* Strengthen customer negotiations using performance insights
-* Identify high-potential markets for business expansion
-
 ---
 
 # 💰 Financial Analytics
@@ -101,44 +74,11 @@ Developed a market-level P&L report to evaluate financial performance across dif
 
 ## 💡 Business Value
 
-The Finance Analytics reports enable businesses to:
-
-* Evaluate financial performance over time
-* Compare profitability across markets
-* Benchmark performance against previous periods
-* Support budgeting and forecasting
-* Identify profitability trends and improvement areas
-* Align financial planning with strategic business objectives
-* Communicate financial performance effectively to stakeholders
-
-
-The Sales Analytics reports provide a structured view of customer and market performance, helping to:
-
-- Monitor customer-level sales performance and year-over-year growth.
-- Evaluate market performance against sales targets.
-- Identify significant performance gaps across markets.
-- Recognize high-performing customers and markets that contribute to sales growth.
-- Support data-driven evaluation of sales performance and target achievement.
-- Provide a clear foundation for identifying areas that may require further analysis or business attention.
-
-- # 🔍 Business Questions
-
-## 📊 Sales Analytics
-
-- Which customers contribute the most to overall Net Sales?
-- How has customer-level sales performance changed between 2020 and 2021?
-- Which markets generated the highest Net Sales in 2021?
-- How did actual market performance compare with the 2021 sales targets?
-- Which markets recorded the largest gaps against their targets?
-
-## 💰 Finance Analytics
-
-- How has Net Sales changed across fiscal years?
-- How has Gross Margin changed in relation to Net Sales?
-- How has Gross Margin Percentage (GM%) evolved across fiscal years?
-- Which markets generated the highest Net Sales and Gross Margin in FY2021?
-- Which markets achieved the highest and lowest Gross Margin Percentage?
-- How did monthly Net Sales and Gross Margin vary throughout the fiscal year?
+* Monitor sales and financial performance.
+* Identify high- and low-performing customers and markets.
+* Compare actual sales against targets.
+* Track profitability and gross margin trends.
+* Support data-driven business decisions.
 
 - # 💡 Key Business Insights
  
@@ -237,22 +177,6 @@ The data model integrates the required datasets and supporting tables to enable 
 This model supports both **Sales Performance Analysis** and **Financial Performance Analysis** within Excel.
 ---
 
-# 🎓 Key Learning Outcomes
-
-Through this project, I strengthened my practical understanding of:
-
-- Applying the **ETL process** to real-world business data.
-- Using **Power Query** for data cleaning, transformation, and preparation.
-- Creating **Date Tables, Fiscal Months, and Fiscal Quarters** for time-based analysis.
-- Building relationships and structured data models using **Power Pivot**.
-- Applying **DAX** to develop calculated columns and analytical calculations.
-- Analyzing **Sales Performance and Financial Performance** using relevant KPIs.
-- Comparing actual performance against **sales targets** to identify performance gaps.
-- Evaluating **Net Sales, COGS, Gross Margin, and Gross Margin %** across different dimensions.
-- Developing a systematic approach to **report planning, analysis, and validation**.
-- Translating analytical findings into **clear and actionable business insights**.
----
-
 # 📂 Project Deliverables
 
 | Analysis                      | Report                                                                                                                      |
@@ -264,13 +188,3 @@ Through this project, I strengthened my practical understanding of:
 | P&L by Market                 | [View Report](https://github.com/DataHareeh/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)     |
 
 ---
-
-# 🚀 Project Outcome
-
-This project demonstrates the practical application of **Excel-based Data Analytics** to transform raw business data into structured Sales and Finance reports.
-
-By combining **Power Query, Power Pivot, Data Modeling, and DAX**, the project delivers analytical insights into customer performance, market performance, sales target achievement, and financial performance.
-
-The project strengthened my ability to move from **data preparation and modeling to analysis, reporting, and insight generation** in a structured analytics workflow.
-
-The **Sales & Financial Analytics — Excel** project has been successfully completed. ✅
