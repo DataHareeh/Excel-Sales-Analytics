@@ -2,15 +2,14 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end **Sales & Finance Analytics solution built in Microsoft Excel**, transforming raw business data into interactive and decision-oriented reports.
+This project presents an end-to-end Sales & Finance Analytics solution built using Microsoft Excel, transforming raw business data into structured, decision-oriented reports.
 
 The project focuses on two key business areas:
 
-* **Sales Performance Analysis** — evaluating customer performance, market trends, and sales targets.
-* **Financial Performance Analysis** — analyzing Profit & Loss (P&L) across fiscal years, months, and markets.
+- **Sales Performance Analysis** — evaluating customer performance, market performance, and sales target achievement.
+- **Financial Performance Analysis** — analyzing Profit & Loss (P&L) across fiscal years, months, and markets.
 
-The objective is to convert complex business data into **clear, actionable insights that support strategic decision-making**.
-
+The objective is to transform complex business data into clear, actionable insights that support data-driven business decision-making.
 ---
 
 # 📈 Sales Analytics
