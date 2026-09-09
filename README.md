@@ -1,4 +1,20 @@
-# 📊 Sales & Finance Analytics — Excel
+# 📊 Sales & Financial Analytics — Excel
+
+## 🗺️ Project Roadmap
+
+1. 📌 Project Overview
+2. 📊 Sales Analytics
+3. 💰 Financial Analytics
+4. 🔍 Business Questions
+5. 💡 Key Business Insights
+6. 🔄 Project Workflow & Data Model
+7. 🛠️ Technical Skills Demonstrated
+8. 🧠 Business & Analytical Skills
+9. 🎓 Key Learning Outcomes
+10. 📂 Project Deliverables
+11. 🚀 Project Outcome
+
+    
 
 ## 📌 Project Overview
 
@@ -12,76 +28,12 @@ The project focuses on two key business areas:
 The objective is to transform complex business data into clear, actionable insights that support data-driven business decision-making.
 
 ---
-## 🗺️ Project Roadmap
 
-```text
-📊 SALES & FINANCE DATA ANALYTICS — EXCEL
-│
-├── 📌 Project Overview
-│
-├── 📊 Sales Analytics
-│   ├── 🎯 Analysis Objectives
-│   │   ├── Customer Performance
-│   │   └── Market Performance vs. Sales Targets
-│   │
-│   └── 💡 Business Value
-│
-├── 💰 Finance Analytics
-│   ├── 🎯 Analysis Objectives
-│   │   ├── P&L by Fiscal Year
-│   │   ├── P&L by Month
-│   │   └── P&L by Market
-│   │
-│   └── 💡 Business Value
-│
-├── 🔍 Business Questions
-│   ├── 📊 Sales Analytics
-│   └── 💰 Finance Analytics
-│
-├── 💡 Key Business Insights
-│
-├── 🔄 Project Workflow & Data Model
-│   ├── Extract
-│   ├── Transform
-│   ├── Data Modeling
-│   ├── DAX
-│   └── Reporting
-│
-├── 🛠️ Technical Skills Demonstrated
-│   ├── Power Query
-│   ├── Power Pivot
-│   ├── Data Modeling
-│   └── DAX
-│
-├── 🧠 Business & Analytical Skills
-│
-├── 🎓 Key Learning Outcomes
-│
-├── 📂 Project Deliverables
-│   ├── Customer Performance
-│   ├── Market vs. Target
-│   ├── P&L by Fiscal Year
-│   ├── P&L by Month
-│   └── P&L by Market
-│
-└── 🚀 Project Outcome
-
-## 📑 Quick Navigation
-
-- [📊 Sales Analytics](#-sales-analytics)
-- [💰 Finance Analytics](#-finance-analytics)
-- [🔍 Business Questions](#-business-questions)
-- [💡 Key Business Insights](#-key-business-insights)
-- [🔄 Project Workflow & Data Model](#-project-workflow--data-model)
-- [🛠️ Technical Skills Demonstrated](#-technical-skills-demonstrated)
-- [🧠 Business & Analytical Skills](#-business--analytical-skills)
-- [🎓 Key Learning Outcomes](#-key-learning-outcomes)
-- [📂 Project Deliverables](#-project-deliverables)
-- [🚀 Project Outcome](#-project-outcome)
 
 # 📈 Sales Analytics
 
-## 🎯 Project Objectives
+
+## 🎯 Sales Analysis Objectives
 
 ### 1. Customer Performance Report
 
@@ -120,9 +72,9 @@ The Sales Analytics report helps businesses:
 
 ---
 
-# 💰 Finance Analytics
+# 💰 Financial Analytics
 
-## 🎯 Project Objectives
+## 🎯 Financial Analysis Objectives
 
 ### 1. Profit & Loss Analysis by Fiscal Year & Month
 
@@ -189,19 +141,16 @@ The Sales Analytics reports provide a structured view of customer and market per
 - How did monthly Net Sales and Gross Margin vary throughout the fiscal year?
 
 - # 💡 Key Business Insights
+ 
+- **Customer sales expanded significantly:** Overall customer sales increased from ₹196.7M in 2020 to ₹598.9M in 2021. Several major customers also recorded substantial growth, including Amazon (**218.9%**), AtliQ Exclusive (**345.8%**), and Neptune (**471.5%**).
+    
+- **Sales targets were not fully achieved:** FY2021 actual sales were **₹54.9M below the overall target**, representing a **9.17% shortfall**. 
 
-- **Strong sales growth:** Net Sales increased from ₹196.7M in FY2020 to ₹598.9M in FY2021, representing **204.5% year-over-year growth**. :contentReference[oaicite:0]{index=0}
+- **India was the largest market:** India generated **₹161.3M in FY2021 Net Sales**, followed by the USA at **₹87.8M** and South Korea at **₹49.0M**. 
 
-- **Customer sales expanded significantly:** Overall customer sales increased from ₹196.7M in 2020 to ₹598.9M in 2021, a **304.5% increase**. Several major customers also recorded substantial growth, including Amazon (**218.9%**), AtliQ Exclusive (**345.8%**), and Neptune (**471.5%**). :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+- **Profitability varied considerably by market:** New Zealand recorded the highest FY2021 Gross Margin Percentage at **48.2%**, followed by Japan at **46.5%** and the United Kingdom at **45.1%**, while Germany recorded the lowest at **26.2%**.
 
-- **Sales targets were not fully achieved:** FY2021 actual sales were **₹54.9M below the overall target**, representing a **9.17% shortfall**. :contentReference[oaicite:4]{index=4}
-
-- **India was the largest market:** India generated **₹161.3M in FY2021 Net Sales**, followed by the USA at **₹87.8M** and South Korea at **₹49.0M**. :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
-
-- **Profitability varied considerably by market:** New Zealand recorded the highest FY2021 Gross Margin Percentage at **48.2%**, followed by Japan at **46.5%** and the United Kingdom at **45.1%**, while Germany recorded the lowest at **26.2%**. :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}
-
-- **Gross margin percentage declined slightly:** Despite strong sales growth, overall GM% decreased from **37.3% in FY2020 to 36.4% in FY2021**, indicating that profitability percentage did not increase at the same pace as sales. :contentReference[oaicite:9]{index=9}
-
+- **Gross margin percentage declined slightly:** Despite strong sales growth, overall GM% decreased from **37.3% in FY2020 to 36.4% in FY2021**, indicating that profitability percentage did not increase at the same pace as sales.
 ---
 
 # 🛠️ Technical Skills Demonstrated
@@ -234,7 +183,7 @@ The Sales Analytics reports provide a structured view of customer and market per
 - Organized KPIs and analytical outputs for clear and effective interpretation.
 ---
 
-# # 🧠 Business & Analytical Skills
+# 🧠 Business & Analytical Skills
 
 This project demonstrates the ability to:
 
@@ -323,3 +272,5 @@ This project demonstrates the practical application of **Excel-based Data Analyt
 By combining **Power Query, Power Pivot, Data Modeling, and DAX**, the project delivers analytical insights into customer performance, market performance, sales target achievement, and financial performance.
 
 The project strengthened my ability to move from **data preparation and modeling to analysis, reporting, and insight generation** in a structured analytics workflow.
+
+The **Sales & Financial Analytics — Excel** project has been successfully completed. ✅
