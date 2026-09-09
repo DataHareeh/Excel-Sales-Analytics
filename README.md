@@ -10,6 +10,7 @@ The project focuses on two key business areas:
 - **Financial Performance Analysis** — analyzing Profit & Loss (P&L) across fiscal years, months, and markets.
 
 The objective is to transform complex business data into clear, actionable insights that support data-driven business decision-making.
+
 ---
 
 # 📈 Sales Analytics
